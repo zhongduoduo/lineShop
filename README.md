@@ -1,1 +1,1 @@
-# lineShop
+# 利用github来展示自己的静态页面
